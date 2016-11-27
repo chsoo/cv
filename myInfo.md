@@ -1,11 +1,14 @@
 ##나에 대해
 name : 최한수 / Hansu Choi
+
 age : 1991.03.25
+
 웹개발의 꿈을 향해
 
 ### 1. 학력(Education)
 
 2017.8월 한성대학교 컴퓨터공학부 졸업 예정
+
 2017.1월 한성대학교 일학습병행제 (주)미디어로그 인턴 예정
 
 ##### 세부 전공 기술(Major)
@@ -30,4 +33,5 @@ age : 1991.03.25
 
 ####연락처
 github: https://github.com/chsoo
+
 email: gkstngkstn@gmail.com

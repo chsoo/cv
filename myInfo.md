@@ -1,53 +1,33 @@
-##최한수
-프로그래밍을 사랑하고 즐길 줄 아는 엔지니어입니다^^^.
+##나에 대해
+name : 최한수 / Hansu Choi
+age : 1991.03.25
+웹개발의 꿈을 향해
 
 ### 1. 학력(Education)
 
-2017.2월 한성대학교 컴퓨터공학부 졸업 예정
+2017.8월 한성대학교 컴퓨터공학부 졸업 예정
+2017.1월 한성대학교 일학습병행제 (주)미디어로그 인턴 예정
 
 ##### 세부 전공 기술(Major)
 
 * 웹 서비스
   * JSP/Servlet, Spring/JPA/Mysql
+  * HTML5/CSS/jQuery
 
-* 모바일 프로그래밍
-  * 안드로이드, iOS 프로그래밍
+* 프로그래밍
+  * C,C++,java language
+
+* framework
+  * spring framework
 
 
-### 2. 보유기술(Technical Skills)
+### 2. 프로젝트 수행 실적(Experience)
+*  2015 벨액터스 웹페이지 리뉴얼 디자인 제작 [밸액터스](http://ossam.dothome.co.kr/web/web2015/web2015_08/)
 
-2.1  Basics
-* Programming Languages: C, C++, __Java__, Javascript, jQuery, Swift
-* Operating Systems: Mac OS, __Linux__
-* IDE(Eclipse, XCODE)
-
-2.2  Java Development
-* Java 개발 프레임워크(MVC, Spring, MyBatis/JPA/Hibernate)
-* DB 응용 개발(Oracle, Mysql)
-* Server(Apache web server, Tomcat, Node.js)
-* 테스트 코드 작성 (Junit)
-
-2.3  Software Tools
-* 소스코드관리(Git, CVS)
-* 이슈추적도구(Trac,Mantis,JIRA,Redmine)
-* Continuous Integration(Jenkins)
-* 소스 리뷰(Gerrit)
-* 빌드도구(Ant, Maven)
-* 코드검사도구(Sonar)
-* 성능분석도구(Jmeter)
-
-### 3. 인턴 및 프로젝트 수행 실적(Experience)
-*  2015 (주) 모모SI 회사 인턴:  전자 상거래를 위한 웹 서비스 구축
-*  2016 (주) 모모보안 회사 인턴: 네트워크 인증 시스템 구축
-
-### 4. 수상 실적 & 자격증(Awards & Certifiations)
-* 한성대학교 공학경진 대회 대상
-  * 명함 인식 소프트웨어
-
-* 2017 공개 SW 경진 대회(미래창조과학부) ????상
-* 정보처리기사 1급 자격증
+### 3. 수상 실적 & 자격증(Awards & Certifiations)
+* 캡스톤 디자인 3 은상 수상
 
 
 ####연락처
-github: https://github.com/stelladream  
-email: haha@hansung.ac.kr
+github: https://github.com/chsoo
+email: gkstngkstn@gmail.com
